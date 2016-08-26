@@ -1,0 +1,27 @@
+{
+  "name": "spiderrobot",
+  "version": "1.0.0",
+  "description": "Spider Robot v1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies" : { 
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/redgsenal/SpiderRobot.git"
+  },
+  "keywords": [
+    "spider",
+    "robot",
+    "8",
+    "legs"
+  ],
+  "author": "reggie.senal@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/redgsenal/SpiderRobot/issues"
+  },
+  "homepage": "https://github.com/redgsenal/SpiderRobot#readme"
+}
